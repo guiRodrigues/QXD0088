@@ -1,0 +1,426 @@
+Oct 10 00:17:01 scripts CRON[63888]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 00:17:01 scripts CRON[63888]: pam_unix(cron:session): session closed for user root
+Oct 10 00:59:32 scripts systemd-logind[492]: New session 452 of user joaofirmino.
+Oct 10 00:59:32 scripts systemd: pam_unix(systemd-user:session): session opened for user joaofirmino by (uid=0)
+Oct 10 00:59:33 scripts systemd-logind[492]: New session 454 of user joaofirmino.
+Oct 10 01:15:07 scripts systemd-logind[492]: Session 452 logged out. Waiting for processes to exit.
+Oct 10 01:15:07 scripts systemd-logind[492]: Removed session 452.
+Oct 10 01:17:01 scripts CRON[64215]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 01:17:01 scripts CRON[64215]: pam_unix(cron:session): session closed for user root
+Oct 10 01:17:36 scripts systemd-logind[492]: New session 456 of user joaofirmino.
+Oct 10 01:17:36 scripts systemd-logind[492]: New session 457 of user joaofirmino.
+Oct 10 01:17:41 scripts systemd-logind[492]: Session 457 logged out. Waiting for processes to exit.
+Oct 10 01:17:41 scripts systemd-logind[492]: Removed session 457.
+Oct 10 01:21:49 scripts systemd-logind[492]: Session 456 logged out. Waiting for processes to exit.
+Oct 10 01:21:49 scripts systemd-logind[492]: Removed session 456.
+Oct 10 02:17:01 scripts CRON[64849]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 02:17:01 scripts CRON[64849]: pam_unix(cron:session): session closed for user root
+Oct 10 03:10:01 scripts CRON[64963]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 03:10:01 scripts CRON[64963]: pam_unix(cron:session): session closed for user root
+Oct 10 03:12:10 scripts systemd-logind[492]: Session 454 logged out. Waiting for processes to exit.
+Oct 10 03:12:10 scripts systemd-logind[492]: Removed session 454.
+Oct 10 03:17:01 scripts CRON[64993]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 03:17:01 scripts CRON[64993]: pam_unix(cron:session): session closed for user root
+Oct 10 03:30:01 scripts CRON[65016]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 03:30:01 scripts CRON[65016]: pam_unix(cron:session): session closed for user root
+Oct 10 04:17:01 scripts CRON[65102]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 04:17:01 scripts CRON[65102]: pam_unix(cron:session): session closed for user root
+Oct 10 05:17:01 scripts CRON[65219]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 05:17:01 scripts CRON[65219]: pam_unix(cron:session): session closed for user root
+Oct 10 06:17:01 scripts CRON[65353]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 06:17:01 scripts CRON[65353]: pam_unix(cron:session): session closed for user root
+Oct 10 06:25:01 scripts CRON[65439]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 06:25:01 scripts CRON[65439]: pam_unix(cron:session): session closed for user root
+Oct 10 06:47:01 scripts CRON[65538]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 06:47:01 scripts CRON[65538]: pam_unix(cron:session): session closed for user root
+Oct 10 07:17:01 scripts CRON[65619]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 07:17:01 scripts CRON[65619]: pam_unix(cron:session): session closed for user root
+Oct 10 07:39:35 scripts systemd-logind[492]: New session 468 of user joaofirmino.
+Oct 10 07:39:35 scripts systemd: pam_unix(systemd-user:session): session opened for user joaofirmino by (uid=0)
+Oct 10 07:39:36 scripts systemd-logind[492]: New session 470 of user joaofirmino.
+Oct 10 08:17:01 scripts CRON[66037]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 08:17:01 scripts CRON[66037]: pam_unix(cron:session): session closed for user root
+Oct 10 08:31:11 scripts systemd-logind[492]: Session 468 logged out. Waiting for processes to exit.
+Oct 10 08:31:11 scripts systemd-logind[492]: Removed session 468.
+Oct 10 08:31:50 scripts systemd-logind[492]: New session 472 of user joaofirmino.
+Oct 10 08:31:51 scripts systemd-logind[492]: New session 473 of user joaofirmino.
+Oct 10 08:31:52 scripts systemd-logind[492]: New session 474 of user joaofirmino.
+Oct 10 08:32:08 scripts systemd-logind[492]: Session 473 logged out. Waiting for processes to exit.
+Oct 10 08:32:08 scripts systemd-logind[492]: Removed session 473.
+Oct 10 08:32:08 scripts systemd-logind[492]: Session 474 logged out. Waiting for processes to exit.
+Oct 10 08:32:08 scripts systemd-logind[492]: Removed session 474.
+Oct 10 08:56:38 scripts systemd-logind[492]: Session 472 logged out. Waiting for processes to exit.
+Oct 10 08:56:38 scripts systemd-logind[492]: Removed session 472.
+Oct 10 08:57:01 scripts systemd-logind[492]: New session 475 of user joaofirmino.
+Oct 10 08:57:02 scripts systemd-logind[492]: New session 476 of user joaofirmino.
+Oct 10 09:17:01 scripts CRON[66800]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 09:17:01 scripts CRON[66800]: pam_unix(cron:session): session closed for user root
+Oct 10 09:51:57 scripts systemd-logind[492]: Session 470 logged out. Waiting for processes to exit.
+Oct 10 09:51:57 scripts systemd-logind[492]: Removed session 470.
+Oct 10 10:17:01 scripts CRON[66898]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 10:17:01 scripts CRON[66898]: pam_unix(cron:session): session closed for user root
+Oct 10 11:08:26 scripts systemd-logind[492]: Session 476 logged out. Waiting for processes to exit.
+Oct 10 11:08:26 scripts systemd-logind[492]: Removed session 476.
+Oct 10 11:09:32 scripts systemd-logind[492]: Session 475 logged out. Waiting for processes to exit.
+Oct 10 11:09:32 scripts systemd-logind[492]: Removed session 475.
+Oct 10 11:17:01 scripts CRON[67003]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 11:17:01 scripts CRON[67003]: pam_unix(cron:session): session closed for user root
+Oct 10 12:17:01 scripts CRON[67096]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 12:17:01 scripts CRON[67096]: pam_unix(cron:session): session closed for user root
+Oct 10 13:17:01 scripts CRON[67191]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 13:17:01 scripts CRON[67191]: pam_unix(cron:session): session closed for user root
+Oct 10 14:13:06 scripts systemd-logind[492]: New session 482 of user joaofirmino.
+Oct 10 14:13:06 scripts systemd: pam_unix(systemd-user:session): session opened for user joaofirmino by (uid=0)
+Oct 10 14:13:07 scripts systemd-logind[492]: New session 484 of user joaofirmino.
+Oct 10 14:17:01 scripts CRON[68097]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 14:17:01 scripts CRON[68097]: pam_unix(cron:session): session closed for user root
+Oct 10 15:17:01 scripts CRON[68328]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 15:17:01 scripts CRON[68328]: pam_unix(cron:session): session closed for user root
+Oct 10 15:24:01 scripts CRON[68369]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 15:24:01 scripts CRON[68369]: pam_unix(cron:session): session closed for user root
+Oct 10 16:17:01 scripts CRON[68448]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 16:17:01 scripts CRON[68448]: pam_unix(cron:session): session closed for user root
+Oct 10 16:25:09 scripts systemd-logind[492]: Session 484 logged out. Waiting for processes to exit.
+Oct 10 16:25:09 scripts systemd-logind[492]: Removed session 484.
+Oct 10 16:53:33 scripts systemd-logind[492]: Session 482 logged out. Waiting for processes to exit.
+Oct 10 16:53:33 scripts systemd-logind[492]: Removed session 482.
+Oct 10 17:17:01 scripts CRON[68557]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 17:17:01 scripts CRON[68557]: pam_unix(cron:session): session closed for user root
+Oct 10 17:18:22 scripts systemd-logind[492]: New session 490 of user joaofirmino.
+Oct 10 17:18:22 scripts systemd: pam_unix(systemd-user:session): session opened for user joaofirmino by (uid=0)
+Oct 10 17:18:22 scripts systemd-logind[492]: New session 492 of user joaofirmino.
+Oct 10 18:17:01 scripts CRON[68904]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 18:17:01 scripts CRON[68904]: pam_unix(cron:session): session closed for user root
+Oct 10 19:17:01 scripts CRON[69041]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 19:17:01 scripts CRON[69041]: pam_unix(cron:session): session closed for user root
+Oct 10 19:30:51 scripts systemd-logind[492]: Session 492 logged out. Waiting for processes to exit.
+Oct 10 19:30:51 scripts systemd-logind[492]: Removed session 492.
+Oct 10 19:39:19 scripts systemd-logind[492]: Session 490 logged out. Waiting for processes to exit.
+Oct 10 19:39:19 scripts systemd-logind[492]: Removed session 490.
+Oct 10 20:17:01 scripts CRON[69186]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 20:17:01 scripts CRON[69186]: pam_unix(cron:session): session closed for user root
+Oct 10 21:17:01 scripts CRON[69320]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 21:17:01 scripts CRON[69320]: pam_unix(cron:session): session closed for user root
+Oct 10 22:17:01 scripts CRON[69421]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 22:17:01 scripts CRON[69421]: pam_unix(cron:session): session closed for user root
+Oct 10 23:17:01 scripts CRON[69533]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 10 23:17:01 scripts CRON[69533]: pam_unix(cron:session): session closed for user root
+Oct 11 00:17:01 scripts CRON[69650]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 00:17:01 scripts CRON[69650]: pam_unix(cron:session): session closed for user root
+Oct 11 01:03:58 scripts systemd-logind[492]: New session 500 of user jonasfirmiano.
+Oct 11 01:03:59 scripts systemd-logind[492]: New session 501 of user jonasfirmiano.
+Oct 11 01:17:01 scripts CRON[69939]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 01:17:01 scripts CRON[69939]: pam_unix(cron:session): session closed for user root
+Oct 11 01:27:12 scripts systemd-logind[492]: New session 503 of user jonasfirmiano.
+Oct 11 01:27:12 scripts systemd-logind[492]: New session 504 of user jonasfirmiano.
+Oct 11 01:39:52 scripts sudo: pam_unix(sudo:auth): authentication failure; logname=jonasfirmiano uid=1020 euid=0 tty=/dev/pts/1 ruser=jonasfirmiano rhost=  user=jonasfirmiano
+Oct 11 01:40:22 scripts sudo: jonasfirmiano : user NOT in sudoers ; TTY=pts/1 ; PWD=/ ; USER=root ; COMMAND=/usr/bin/apt-get isntall openssh-client
+Oct 11 01:48:55 scripts systemd-logind[492]: Session 503 logged out. Waiting for processes to exit.
+Oct 11 01:48:55 scripts systemd-logind[492]: Removed session 503.
+Oct 11 01:49:00 scripts systemd-logind[492]: New session 505 of user jonasfirmiano.
+Oct 11 01:49:01 scripts systemd-logind[492]: New session 506 of user jonasfirmiano.
+Oct 11 02:17:01 scripts CRON[70522]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 02:17:01 scripts CRON[70522]: pam_unix(cron:session): session closed for user root
+Oct 11 02:30:00 scripts systemd-logind[492]: New session 508 of user jonasfirmiano.
+Oct 11 02:30:01 scripts systemd-logind[492]: New session 509 of user jonasfirmiano.
+Oct 11 02:43:40 scripts systemd-logind[492]: Session 508 logged out. Waiting for processes to exit.
+Oct 11 02:43:40 scripts systemd-logind[492]: Removed session 508.
+Oct 11 03:10:01 scripts CRON[70822]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 03:10:01 scripts CRON[70822]: pam_unix(cron:session): session closed for user root
+Oct 11 03:16:09 scripts systemd-logind[492]: Session 500 logged out. Waiting for processes to exit.
+Oct 11 03:16:09 scripts systemd-logind[492]: Session 501 logged out. Waiting for processes to exit.
+Oct 11 03:16:09 scripts systemd-logind[492]: Removed session 500.
+Oct 11 03:16:09 scripts systemd-logind[492]: Removed session 501.
+Oct 11 03:17:01 scripts CRON[70834]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 03:17:01 scripts CRON[70834]: pam_unix(cron:session): session closed for user root
+Oct 11 03:40:11 scripts systemd-logind[492]: Session 504 logged out. Waiting for processes to exit.
+Oct 11 03:40:11 scripts systemd-logind[492]: Removed session 504.
+Oct 11 04:02:01 scripts systemd-logind[492]: Session 506 logged out. Waiting for processes to exit.
+Oct 11 04:02:01 scripts systemd-logind[492]: Removed session 506.
+Oct 11 04:17:01 scripts CRON[70971]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 04:17:01 scripts CRON[70971]: pam_unix(cron:session): session closed for user root
+Oct 11 04:26:03 scripts systemd-logind[492]: Session 505 logged out. Waiting for processes to exit.
+Oct 11 04:26:03 scripts systemd-logind[492]: Removed session 505.
+Oct 11 04:43:32 scripts systemd-logind[492]: Session 509 logged out. Waiting for processes to exit.
+Oct 11 04:43:32 scripts systemd-logind[492]: Removed session 509.
+Oct 11 05:17:01 scripts CRON[71067]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 05:17:01 scripts CRON[71067]: pam_unix(cron:session): session closed for user root
+Oct 11 06:17:01 scripts CRON[71242]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 06:17:01 scripts CRON[71242]: pam_unix(cron:session): session closed for user root
+Oct 11 06:25:01 scripts CRON[71260]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 06:25:01 scripts CRON[71260]: pam_unix(cron:session): session closed for user root
+Oct 11 07:17:01 scripts CRON[71428]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 07:17:01 scripts CRON[71428]: pam_unix(cron:session): session closed for user root
+Oct 11 08:17:01 scripts CRON[71621]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 08:17:01 scripts CRON[71621]: pam_unix(cron:session): session closed for user root
+Oct 11 09:17:01 scripts CRON[71727]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 09:17:01 scripts CRON[71727]: pam_unix(cron:session): session closed for user root
+Oct 11 10:17:01 scripts CRON[72185]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 10:17:01 scripts CRON[72185]: pam_unix(cron:session): session closed for user root
+Oct 11 11:17:01 scripts CRON[72285]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 11:17:01 scripts CRON[72285]: pam_unix(cron:session): session closed for user root
+Oct 11 12:17:01 scripts CRON[72416]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 12:17:01 scripts CRON[72416]: pam_unix(cron:session): session closed for user root
+Oct 11 13:17:01 scripts CRON[72512]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 13:17:01 scripts CRON[72512]: pam_unix(cron:session): session closed for user root
+Oct 11 13:27:32 scripts systemd-logind[492]: New session 523 of user jonasfirmiano.
+Oct 11 13:27:33 scripts systemd-logind[492]: New session 524 of user jonasfirmiano.
+Oct 11 13:27:36 scripts systemd-logind[492]: Session 523 logged out. Waiting for processes to exit.
+Oct 11 13:27:36 scripts systemd-logind[492]: Removed session 523.
+Oct 11 13:27:36 scripts systemd-logind[492]: Session 524 logged out. Waiting for processes to exit.
+Oct 11 13:27:36 scripts systemd-logind[492]: Removed session 524.
+Oct 11 13:27:41 scripts systemd-logind[492]: New session 525 of user jonasfirmiano.
+Oct 11 13:27:42 scripts systemd-logind[492]: New session 526 of user jonasfirmiano.
+Oct 11 13:31:42 scripts systemd-logind[492]: Session 525 logged out. Waiting for processes to exit.
+Oct 11 13:31:42 scripts systemd-logind[492]: Removed session 525.
+Oct 11 13:31:42 scripts systemd-logind[492]: Session 526 logged out. Waiting for processes to exit.
+Oct 11 13:31:42 scripts systemd-logind[492]: Removed session 526.
+Oct 11 14:17:01 scripts CRON[72990]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 14:17:01 scripts CRON[72990]: pam_unix(cron:session): session closed for user root
+Oct 11 15:17:01 scripts CRON[73090]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 15:17:01 scripts CRON[73090]: pam_unix(cron:session): session closed for user root
+Oct 11 15:24:01 scripts CRON[73108]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 15:24:01 scripts CRON[73108]: pam_unix(cron:session): session closed for user root
+Oct 11 16:17:01 scripts CRON[73246]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 16:17:01 scripts CRON[73246]: pam_unix(cron:session): session closed for user root
+Oct 11 17:17:01 scripts CRON[73368]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 17:17:01 scripts CRON[73368]: pam_unix(cron:session): session closed for user root
+Oct 11 18:17:01 scripts CRON[73471]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 18:17:01 scripts CRON[73471]: pam_unix(cron:session): session closed for user root
+Oct 11 19:17:01 scripts CRON[73580]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 19:17:01 scripts CRON[73580]: pam_unix(cron:session): session closed for user root
+Oct 11 20:17:01 scripts CRON[74066]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 20:17:01 scripts CRON[74066]: pam_unix(cron:session): session closed for user root
+Oct 11 21:17:01 scripts CRON[74158]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 21:17:01 scripts CRON[74158]: pam_unix(cron:session): session closed for user root
+Oct 11 22:17:01 scripts CRON[74254]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 22:17:01 scripts CRON[74254]: pam_unix(cron:session): session closed for user root
+Oct 11 23:17:01 scripts CRON[74359]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 11 23:17:01 scripts CRON[74359]: pam_unix(cron:session): session closed for user root
+Oct 12 00:17:01 scripts CRON[74484]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 00:17:01 scripts CRON[74484]: pam_unix(cron:session): session closed for user root
+Oct 12 01:17:01 scripts CRON[74957]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 01:17:01 scripts CRON[74957]: pam_unix(cron:session): session closed for user root
+Oct 12 02:17:01 scripts CRON[75070]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 02:17:01 scripts CRON[75070]: pam_unix(cron:session): session closed for user root
+Oct 12 03:10:01 scripts CRON[75153]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 03:10:01 scripts CRON[75153]: pam_unix(cron:session): session closed for user root
+Oct 12 03:17:01 scripts CRON[75177]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 03:17:01 scripts CRON[75177]: pam_unix(cron:session): session closed for user root
+Oct 12 04:17:01 scripts CRON[75283]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 04:17:01 scripts CRON[75283]: pam_unix(cron:session): session closed for user root
+Oct 12 05:17:01 scripts CRON[75385]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 05:17:01 scripts CRON[75385]: pam_unix(cron:session): session closed for user root
+Oct 12 06:17:01 scripts CRON[75491]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 06:17:01 scripts CRON[75491]: pam_unix(cron:session): session closed for user root
+Oct 12 06:25:01 scripts CRON[75525]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 06:25:01 scripts CRON[75525]: pam_unix(cron:session): session closed for user root
+Oct 12 07:17:01 scripts CRON[75756]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 07:17:01 scripts CRON[75756]: pam_unix(cron:session): session closed for user root
+Oct 12 08:05:32 scripts systemd-logind[492]: New session 548 of user andrefelipe.
+Oct 12 08:10:10 scripts systemd-logind[492]: Session 548 logged out. Waiting for processes to exit.
+Oct 12 08:10:10 scripts systemd-logind[492]: Removed session 548.
+Oct 12 08:17:01 scripts CRON[76113]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 08:17:01 scripts CRON[76113]: pam_unix(cron:session): session closed for user root
+Oct 12 09:17:01 scripts CRON[76217]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 09:17:01 scripts CRON[76217]: pam_unix(cron:session): session closed for user root
+Oct 12 10:17:01 scripts CRON[76307]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 10:17:01 scripts CRON[76307]: pam_unix(cron:session): session closed for user root
+Oct 12 11:17:01 scripts CRON[76416]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 11:17:01 scripts CRON[76416]: pam_unix(cron:session): session closed for user root
+Oct 12 12:17:01 scripts CRON[76527]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 12:17:01 scripts CRON[76527]: pam_unix(cron:session): session closed for user root
+Oct 12 13:17:01 scripts CRON[76634]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 13:17:01 scripts CRON[76634]: pam_unix(cron:session): session closed for user root
+Oct 12 14:17:01 scripts CRON[76784]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 14:17:01 scripts CRON[76784]: pam_unix(cron:session): session closed for user root
+Oct 12 15:13:13 scripts systemd-logind[492]: New session 556 of user luizalves.
+Oct 12 15:17:01 scripts CRON[77068]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 15:17:01 scripts CRON[77068]: pam_unix(cron:session): session closed for user root
+Oct 12 15:17:49 scripts systemd-logind[492]: Session 556 logged out. Waiting for processes to exit.
+Oct 12 15:17:49 scripts systemd-logind[492]: Removed session 556.
+Oct 12 15:24:01 scripts CRON[77089]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 15:24:01 scripts CRON[77089]: pam_unix(cron:session): session closed for user root
+Oct 12 16:17:01 scripts CRON[77312]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 16:17:01 scripts CRON[77312]: pam_unix(cron:session): session closed for user root
+Oct 12 17:17:01 scripts CRON[77411]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 17:17:01 scripts CRON[77411]: pam_unix(cron:session): session closed for user root
+Oct 12 18:17:01 scripts CRON[77528]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 18:17:01 scripts CRON[77528]: pam_unix(cron:session): session closed for user root
+Oct 12 19:17:01 scripts CRON[77641]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 19:17:01 scripts CRON[77641]: pam_unix(cron:session): session closed for user root
+Oct 12 19:36:23 scripts systemd-logind[492]: New session 563 of user carloseduardo.
+Oct 12 19:36:23 scripts systemd: pam_unix(systemd-user:session): session opened for user carloseduardo by (uid=0)
+Oct 12 19:36:23 scripts systemd-logind[492]: New session 565 of user carloseduardo.
+Oct 12 20:17:01 scripts CRON[78010]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 20:17:01 scripts CRON[78010]: pam_unix(cron:session): session closed for user root
+Oct 12 20:45:35 scripts systemd-logind[492]: New session 567 of user franciscolucas.
+Oct 12 20:45:35 scripts systemd: pam_unix(systemd-user:session): session opened for user franciscolucas by (uid=0)
+Oct 12 20:45:43 scripts systemd-logind[492]: Session 567 logged out. Waiting for processes to exit.
+Oct 12 20:45:43 scripts systemd-logind[492]: Removed session 567.
+Oct 12 21:17:01 scripts CRON[78316]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 21:17:01 scripts CRON[78316]: pam_unix(cron:session): session closed for user root
+Oct 12 21:49:52 scripts systemd-logind[492]: Session 565 logged out. Waiting for processes to exit.
+Oct 12 21:49:52 scripts systemd-logind[492]: Removed session 565.
+Oct 12 21:50:02 scripts systemd-logind[492]: New session 570 of user carloseduardo.
+Oct 12 21:50:03 scripts systemd-logind[492]: New session 571 of user carloseduardo.
+Oct 12 21:53:23 scripts systemd-logind[492]: Session 570 logged out. Waiting for processes to exit.
+Oct 12 21:53:23 scripts systemd-logind[492]: Removed session 570.
+Oct 12 21:53:57 scripts systemd-logind[492]: New session 572 of user carloseduardo.
+Oct 12 21:53:58 scripts systemd-logind[492]: New session 573 of user carloseduardo.
+Oct 12 21:55:45 scripts systemd-logind[492]: Session 572 logged out. Waiting for processes to exit.
+Oct 12 21:55:45 scripts systemd-logind[492]: Removed session 572.
+Oct 12 21:55:45 scripts systemd-logind[492]: Session 573 logged out. Waiting for processes to exit.
+Oct 12 21:55:45 scripts systemd-logind[492]: Removed session 573.
+Oct 12 21:59:12 scripts systemd-logind[492]: New session 574 of user joaofirmino.
+Oct 12 21:59:12 scripts systemd: pam_unix(systemd-user:session): session opened for user joaofirmino by (uid=0)
+Oct 12 21:59:13 scripts systemd-logind[492]: New session 576 of user joaofirmino.
+Oct 12 22:17:01 scripts CRON[79022]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 22:17:01 scripts CRON[79022]: pam_unix(cron:session): session closed for user root
+Oct 12 23:17:01 scripts CRON[79208]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 12 23:17:01 scripts CRON[79208]: pam_unix(cron:session): session closed for user root
+Oct 12 23:47:50 scripts systemd-logind[492]: Session 563 logged out. Waiting for processes to exit.
+Oct 12 23:47:50 scripts systemd-logind[492]: Removed session 563.
+Oct 13 00:00:58 scripts systemd-logind[492]: Session 574 logged out. Waiting for processes to exit.
+Oct 13 00:00:58 scripts systemd-logind[492]: Removed session 574.
+Oct 13 00:01:03 scripts systemd-logind[492]: New session 579 of user joaofirmino.
+Oct 13 00:01:04 scripts systemd-logind[492]: New session 580 of user joaofirmino.
+Oct 13 00:01:14 scripts systemd-logind[492]: Session 579 logged out. Waiting for processes to exit.
+Oct 13 00:01:14 scripts systemd-logind[492]: Removed session 579.
+Oct 13 00:01:14 scripts systemd-logind[492]: Session 580 logged out. Waiting for processes to exit.
+Oct 13 00:01:14 scripts systemd-logind[492]: Removed session 580.
+Oct 13 00:03:08 scripts systemd-logind[492]: Session 571 logged out. Waiting for processes to exit.
+Oct 13 00:03:08 scripts systemd-logind[492]: Removed session 571.
+Oct 13 00:11:52 scripts systemd-logind[492]: Session 576 logged out. Waiting for processes to exit.
+Oct 13 00:11:52 scripts systemd-logind[492]: Removed session 576.
+Oct 13 00:17:01 scripts CRON[79532]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 13 00:17:01 scripts CRON[79532]: pam_unix(cron:session): session closed for user root
+Oct 13 01:17:01 scripts CRON[79627]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 13 01:17:01 scripts CRON[79627]: pam_unix(cron:session): session closed for user root
+Oct 13 02:17:01 scripts CRON[79745]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 13 02:17:01 scripts CRON[79745]: pam_unix(cron:session): session closed for user root
+Oct 13 03:10:01 scripts CRON[79837]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 13 03:10:01 scripts CRON[79837]: pam_unix(cron:session): session closed for user root
+Oct 13 03:17:01 scripts CRON[79849]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 13 03:17:01 scripts CRON[79849]: pam_unix(cron:session): session closed for user root
+Oct 13 04:17:01 scripts CRON[80025]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 13 04:17:01 scripts CRON[80025]: pam_unix(cron:session): session closed for user root
+Oct 13 05:17:01 scripts CRON[80252]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 13 05:17:01 scripts CRON[80252]: pam_unix(cron:session): session closed for user root
+Oct 13 06:17:01 scripts CRON[80686]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 13 06:17:01 scripts CRON[80686]: pam_unix(cron:session): session closed for user root
+Oct 13 06:25:01 scripts CRON[80702]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 13 06:25:01 scripts CRON[80702]: pam_unix(cron:session): session closed for user root
+Oct 13 07:17:01 scripts CRON[81087]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 13 07:17:01 scripts CRON[81087]: pam_unix(cron:session): session closed for user root
+Oct 13 08:17:01 scripts CRON[81187]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 13 08:17:01 scripts CRON[81187]: pam_unix(cron:session): session closed for user root
+Oct 13 09:17:01 scripts CRON[81401]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 13 09:17:01 scripts CRON[81401]: pam_unix(cron:session): session closed for user root
+Oct 13 10:17:01 scripts CRON[81509]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 13 10:17:01 scripts CRON[81509]: pam_unix(cron:session): session closed for user root
+Oct 13 11:17:01 scripts CRON[81624]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 13 11:17:01 scripts CRON[81624]: pam_unix(cron:session): session closed for user root
+Oct 13 12:17:01 scripts CRON[81804]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 13 12:17:01 scripts CRON[81804]: pam_unix(cron:session): session closed for user root
+Oct 13 13:17:01 scripts CRON[81916]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 13 13:17:01 scripts CRON[81916]: pam_unix(cron:session): session closed for user root
+Oct 13 14:17:01 scripts CRON[82067]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 13 14:17:01 scripts CRON[82067]: pam_unix(cron:session): session closed for user root
+Oct 13 15:17:01 scripts CRON[82298]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 13 15:17:01 scripts CRON[82298]: pam_unix(cron:session): session closed for user root
+Oct 13 15:24:01 scripts CRON[82310]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 13 15:24:01 scripts CRON[82310]: pam_unix(cron:session): session closed for user root
+Oct 13 16:17:01 scripts CRON[82432]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 13 16:17:01 scripts CRON[82432]: pam_unix(cron:session): session closed for user root
+Oct 13 17:17:01 scripts CRON[82529]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 13 17:17:01 scripts CRON[82529]: pam_unix(cron:session): session closed for user root
+Oct 13 18:17:01 scripts CRON[82627]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 13 18:17:01 scripts CRON[82627]: pam_unix(cron:session): session closed for user root
+Oct 13 19:17:01 scripts CRON[82749]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 13 19:17:01 scripts CRON[82749]: pam_unix(cron:session): session closed for user root
+Oct 13 19:58:32 scripts systemd-logind[492]: New session 604 of user joaofirmino.
+Oct 13 19:58:32 scripts systemd: pam_unix(systemd-user:session): session opened for user joaofirmino by (uid=0)
+Oct 13 19:58:33 scripts systemd-logind[492]: New session 606 of user joaofirmino.
+Oct 13 20:12:44 scripts systemd-logind[492]: New session 607 of user antoniomarcos.
+Oct 13 20:12:44 scripts systemd: pam_unix(systemd-user:session): session opened for user antoniomarcos by (uid=0)
+Oct 13 20:12:44 scripts systemd-logind[492]: New session 609 of user antoniomarcos.
+Oct 13 20:17:01 scripts CRON[83370]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 13 20:17:01 scripts CRON[83370]: pam_unix(cron:session): session closed for user root
+Oct 13 20:33:37 scripts systemd-logind[492]: New session 611 of user antoniomarcos.
+Oct 13 20:33:38 scripts systemd-logind[492]: New session 612 of user antoniomarcos.
+Oct 13 20:44:24 scripts systemd-logind[492]: New session 613 of user antoniomarcos.
+Oct 13 20:44:25 scripts systemd-logind[492]: New session 614 of user antoniomarcos.
+Oct 13 20:57:47 scripts systemd-logind[492]: New session 615 of user antoniomarcos.
+Oct 13 20:57:47 scripts systemd-logind[492]: New session 616 of user antoniomarcos.
+Oct 13 21:17:01 scripts CRON[83999]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 13 21:17:01 scripts CRON[83999]: pam_unix(cron:session): session closed for user root
+Oct 13 21:53:40 scripts systemd-logind[492]: New session 618 of user joaofirmino.
+Oct 13 21:53:41 scripts systemd-logind[492]: New session 619 of user joaofirmino.
+Oct 13 22:11:19 scripts systemd-logind[492]: Session 606 logged out. Waiting for processes to exit.
+Oct 13 22:11:19 scripts systemd-logind[492]: Removed session 606.
+Oct 13 22:17:01 scripts CRON[84288]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 13 22:17:01 scripts CRON[84288]: pam_unix(cron:session): session closed for user root
+Oct 13 22:24:26 scripts systemd-logind[492]: Session 609 logged out. Waiting for processes to exit.
+Oct 13 22:24:26 scripts systemd-logind[492]: Removed session 609.
+Oct 13 22:25:56 scripts systemd-logind[492]: Session 607 logged out. Waiting for processes to exit.
+Oct 13 22:25:56 scripts systemd-logind[492]: Removed session 607.
+Oct 13 22:28:31 scripts systemd-logind[492]: Session 604 logged out. Waiting for processes to exit.
+Oct 13 22:28:31 scripts systemd-logind[492]: Removed session 604.
+Oct 13 22:46:16 scripts systemd-logind[492]: Session 612 logged out. Waiting for processes to exit.
+Oct 13 22:46:16 scripts systemd-logind[492]: Removed session 612.
+Oct 13 22:48:44 scripts systemd-logind[492]: Session 611 logged out. Waiting for processes to exit.
+Oct 13 22:48:44 scripts systemd-logind[492]: Removed session 611.
+Oct 13 22:57:12 scripts systemd-logind[492]: Session 614 logged out. Waiting for processes to exit.
+Oct 13 22:57:12 scripts systemd-logind[492]: Removed session 614.
+Oct 13 23:03:12 scripts systemd-logind[492]: Session 613 logged out. Waiting for processes to exit.
+Oct 13 23:03:12 scripts systemd-logind[492]: Removed session 613.
+Oct 13 23:04:47 scripts systemd-logind[492]: New session 621 of user antoniomarcos.
+Oct 13 23:04:48 scripts systemd-logind[492]: New session 622 of user antoniomarcos.
+Oct 13 23:10:18 scripts systemd-logind[492]: Session 616 logged out. Waiting for processes to exit.
+Oct 13 23:10:18 scripts systemd-logind[492]: Removed session 616.
+Oct 13 23:10:26 scripts systemd-logind[492]: Session 615 logged out. Waiting for processes to exit.
+Oct 13 23:10:26 scripts systemd-logind[492]: Removed session 615.
+Oct 13 23:17:01 scripts CRON[84594]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 13 23:17:01 scripts CRON[84594]: pam_unix(cron:session): session closed for user root
+Oct 13 23:24:31 scripts systemd-logind[492]: New session 624 of user antoniomarcos.
+Oct 13 23:24:32 scripts systemd-logind[492]: New session 625 of user antoniomarcos.
+Oct 14 00:07:06 scripts systemd-logind[492]: Session 618 logged out. Waiting for processes to exit.
+Oct 14 00:07:06 scripts systemd-logind[492]: Session 619 logged out. Waiting for processes to exit.
+Oct 14 00:07:06 scripts systemd-logind[492]: Removed session 619.
+Oct 14 00:07:06 scripts systemd-logind[492]: Removed session 618.
+Oct 14 00:17:01 scripts CRON[84910]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 14 00:17:01 scripts CRON[84910]: pam_unix(cron:session): session closed for user root
+Oct 14 01:17:01 scripts CRON[85064]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 14 01:17:01 scripts CRON[85064]: pam_unix(cron:session): session closed for user root
+Oct 14 01:17:11 scripts systemd-logind[492]: Session 622 logged out. Waiting for processes to exit.
+Oct 14 01:17:11 scripts systemd-logind[492]: Removed session 622.
+Oct 14 01:23:17 scripts systemd-logind[492]: Session 621 logged out. Waiting for processes to exit.
+Oct 14 01:23:17 scripts systemd-logind[492]: Removed session 621.
+Oct 14 01:36:40 scripts systemd-logind[492]: Session 625 logged out. Waiting for processes to exit.
+Oct 14 01:36:40 scripts systemd-logind[492]: Removed session 625.
+Oct 14 01:39:08 scripts systemd-logind[492]: Session 624 logged out. Waiting for processes to exit.
+Oct 14 01:39:08 scripts systemd-logind[492]: Removed session 624.
+Oct 14 02:17:01 scripts CRON[85167]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 14 02:17:01 scripts CRON[85167]: pam_unix(cron:session): session closed for user root
+Oct 14 03:10:01 scripts CRON[85247]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 14 03:10:01 scripts CRON[85247]: pam_unix(cron:session): session closed for user root
+Oct 14 03:17:01 scripts CRON[85264]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 14 03:17:01 scripts CRON[85264]: pam_unix(cron:session): session closed for user root
+Oct 14 04:17:01 scripts CRON[85393]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 14 04:17:01 scripts CRON[85393]: pam_unix(cron:session): session closed for user root
+Oct 14 05:17:01 scripts CRON[85496]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 14 05:17:01 scripts CRON[85496]: pam_unix(cron:session): session closed for user root
+Oct 14 06:17:01 scripts CRON[85720]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 14 06:17:01 scripts CRON[85720]: pam_unix(cron:session): session closed for user root
+Oct 14 06:25:01 scripts CRON[85737]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 14 06:25:01 scripts CRON[85737]: pam_unix(cron:session): session closed for user root
+Oct 14 07:17:01 scripts CRON[85884]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 14 07:17:01 scripts CRON[85884]: pam_unix(cron:session): session closed for user root
+Oct 14 08:17:01 scripts CRON[85981]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct 14 08:17:01 scripts CRON[85981]: pam_unix(cron:session): session closed for user root
+Oct 14 09:06:30 scripts systemd-logind[492]: New session 637 of user ubuntu.
+Oct 14 09:06:30 scripts systemd: pam_unix(systemd-user:session): session opened for user ubuntu by (uid=0)
+Oct 14 09:06:44 scripts sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/apt update
+Oct 14 09:06:44 scripts sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Oct 14 09:06:48 scripts sudo: pam_unix(sudo:session): session closed for user root
